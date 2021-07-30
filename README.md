@@ -1,5 +1,5 @@
 # Scrapping
-## Fernape- Cupoclick- Prodescuento
+## Fernapet- Cupoclick- Prodescuento
 ### Capítulo I: Elección de páginas
 Las páginas web fueron elegidas porque las 3 venden productos similaresque están en el mercadoa un precio mucho más económico que el de la mayoría de las empresas. Cada vez son más las personas que se adhieren a comprar en el mercado online productos con más descuentos. Los clientes siempre prefieren páginas web confiables y con una visualización fácil de los productos que se tienen, como es el caso de las páginas antes mencionadas. Las páginasweb elegidas tienen un navegador y buscador rápido de productos con sus respectivos precios, es por ello, que son de las páginas favoritas a la hora de comprar.
 ### Capítulo II: Inspección informatica de las páginas web
